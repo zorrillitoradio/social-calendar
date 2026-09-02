@@ -1,0 +1,46 @@
+{
+  "theme": "IA sin criterio humano",
+  "cover_hook": "El 71% de los anunciantes ya le tiene miedo a tu IA sin editar.",
+  "pairs": [
+    {
+      "num": "01",
+      "theme": "Copiar y pegar",
+      "amateur": "\"Lo generó la IA, así se manda.\"",
+      "pro": ["Generas con IA", "×", "revisas tú", "×", "firmas con tu nombre"],
+      "rich": true
+    },
+    {
+      "num": "02",
+      "theme": "Cero fact-check",
+      "amateur": "\"Seguro el dato está bien.\"",
+      "pro": ["Checas el dato", "×", "antes de que", "×", "tu cliente lo cheque por ti"],
+      "rich": true
+    },
+    {
+      "num": "03",
+      "theme": "Ocultar la IA",
+      "amateur": "\"Mejor no le digo que usé IA.\"",
+      "pro": ["Dices que usaste IA", "×", "y por qué", "×", "siguen confiando en ti"],
+      "rich": true
+    },
+    {
+      "num": "04",
+      "theme": "Cobrar igual",
+      "amateur": "\"Cobro lo mismo, lo hizo la IA.\"",
+      "pro": ["Cobras por tu criterio", "×", "no por", "×", "quién tecleó"],
+      "rich": true
+    },
+    {
+      "num": "05",
+      "theme": "Sin filtro de voz",
+      "amateur": "\"Que la máquina hable por mí.\"",
+      "pro": ["La IA propone", "×", "tu voz", "×", "decide"],
+      "rich": true
+    }
+  ],
+  "caption": "El 71% de los anunciantes ya le tiene miedo a la IA sin filtro.\n\nUn estudio de Borrell Associates encontró que la mayoría de las marcas acepta que agencias y proveedores usen IA — pero el 71% teme que meta errores y el 72% teme que invente información. El problema nunca fue la herramienta. Es que nadie la esté revisando.\n\nZorrillito, seguimos dando lata: la IA te ahorra tiempo, no te quita la responsabilidad. Si tu criterio no está en medio, tu cliente lo va a notar antes que tú.\n\n¿Ya usas IA en tu contenido o tus campañas? Comenta 'IA' y te cuento cómo la uso yo sin perder mi voz.",
+  "script_20s": "El 71% de los anunciantes ya le tiene miedo a tu IA sin editar. Un estudio de Borrell Associates lo confirma: la mayoría acepta que uses IA... pero le teme a los errores y a la información inventada. Y aquí está el punto que nadie te dice: la IA no es el problema, es publicar sin revisar. La máquina propone, tú decides. Ese filtro es lo que te van a seguir pagando, viejón. Comenta 'IA' si quieres que te comparta cómo la uso yo sin perder mi voz.",
+  "pilar": "IA",
+  "nota_url": "https://radionotas.com/2026/08/19/anunciantes-locales-aceptan-la-ia-pero-71-teme-que-genere-errores/",
+  "nota_titulo": "Anunciantes locales aceptan la IA, pero 71% teme que genere errores"
+}
