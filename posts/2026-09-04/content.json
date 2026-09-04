@@ -1,0 +1,53 @@
+{
+  "theme": "Memoria, no alcance",
+  "cover_hook": "El alcance no vende. Que te recuerden, sí.",
+  "pairs": [
+    {
+      "num": "01",
+      "theme": "Datos vs memoria",
+      "amateur": "\"Con este alcance ya vendo solo.\"",
+      "pro": ["Conecta", "×", "que te recuerden", "×", "eso vende"],
+      "rich": true
+    },
+    {
+      "num": "02",
+      "theme": "El momento justo",
+      "amateur": "\"Contesto cuando a mí me conviene.\"",
+      "pro": ["Detecta el momento", "×", "aparece ahí", "×", "deja huella"],
+      "rich": true
+    },
+    {
+      "num": "03",
+      "theme": "Lealtad de largo plazo",
+      "amateur": "\"Ya me compró, ahí muere.\"",
+      "pro": ["Acompaña su proceso", "×", "construye lealtad"],
+      "rich": true
+    },
+    {
+      "num": "04",
+      "theme": "Sostener sin cobrar",
+      "amateur": "\"Solo hablo cuando hay algo que cobrar.\"",
+      "pro": ["Sostén sin cobrar", "×", "gánate la confianza"],
+      "rich": true
+    },
+    {
+      "num": "05",
+      "theme": "El verdadero cierre",
+      "amateur": "\"Cerré la venta, misión cumplida.\"",
+      "pro": ["Cuida el después", "×", "que regresen", "×", "ahí está el negocio"],
+      "rich": true
+    }
+  ],
+  "caption": "El alcance no vende. Que te recuerden, sí.\n\nEn radio lo vemos todo el tiempo: la voz que de verdad deja huella no es la de más rating, es la que estuvo ahí en el momento justo — la oyente que llamó casi un año después solo para decir gracias, la que siguió a su locutora desde niña hasta hoy. Eso no se mide en alcance. Se mide en si vuelven.\n\nSi vendes algo — un producto, un servicio, tu propia marca — es la misma lógica: no te enfoques nada más en cerrar. Enfócate en que te recuerden.\n\nEstoy armando algo para enseñarte a comunicar así. Comenta 'QUIERO' y te aviso cuando esté listo.",
+  "script_20s": "El alcance no vende. Lo que vende es que alguien te recuerde en el momento que más te necesitaba. En la radio hay oyentes que llaman un año después solo para decir gracias — eso no sale en ninguna métrica. Si tú solo cuentas likes, estás viendo el número equivocado. Lo que construye un negocio de verdad es que la gente vuelva. Zorrillito, seguimos dando lata.",
+  "cierre": {
+    "l1": "EL ALCANCE",
+    "l2": "NO VENDE.",
+    "badge": "QUE TE RECUERDEN, SÍ",
+    "q1": "¿Cuál de estos errores",
+    "q2": "vas a soltar hoy?"
+  },
+  "pilar": "VENDE",
+  "nota_url": "https://radionotas.com/2026/08/19/que-hace-que-una-voz-en-radio-pueda-convertirse-en-parte-de-la-historia-personal-de-alguien/",
+  "nota_titulo": "¿Qué hace que una voz en radio pueda convertirse en parte de tu historia?"
+}
